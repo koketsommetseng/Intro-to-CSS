@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing:border-box;
+}
+
+
+.body{
+    background-color:skyblue;
+}
+
+.header{
+    justify-content: center;
+}
+
+
+ul{
+    text-align:center;
+    display: inline-flexbox;
+    list-style-type: none;
+}
+
+li{
+    padding:1.5rem;
+    display: inline-flex;
+}
+
+li a{
+    text-decoration:none;
+}
+
+p{
+    display:center;
+}
+
+.contact{
+    text-align: center;
+    border-color: #cfcfcf;
+    padding: 0rem;
+    justify-content:center;
+}
+
+.about{
+    text-align: center;
+    background-color: #cfcfcf;
+    justify-content: space-evenly;
+    margin: 2rem;
+    
+}
+
+.info{
+    text-align: center;
+    justify-content: center;
+}
